@@ -1,16 +1,40 @@
-### Hi there 👋
+<!--<h3 align="center">
+![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+</h3> -->
 
-<!--
-**jonathanfilbert/jonathanfilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://jofil-web.s3.amazonaws.com/images/og.png)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://gpvc.arturio.dev/jonathanfilbert" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=jonathanfilbert&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/jonathanfilbert?label=%40jonatthanfilbert&style=social"></a>
+  <div style="text-align:center; padding:0; margin:0" >
+  <a href="https://blog.jofil.tech">Blog</a> •
+  <a href="https://jofil.tech">Website</a>
+  </div>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center" style="   background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
+<h1>ABOUT</h1>
+I'm a <a href="https://pintu.co.id/" >fullstack software engineer at Pintu and RupiahToken</a> focusing on building our mobile and web ecosystem. I'm also a penultimate Information Systems student at the <a href="https://www.ui.ac.id/">University of Indonesia</a>, moreover an avid design / fashion / lifestyle / food enthusiast. <br><br> Whilst maintaining my cum laude GPA and working as a software engineer, I'm currently in the process of rebranding my website and revamping its whole architecture, in the meantime, you can visit and learn more about me <a href="(https://jofil.tech/">here.</a>
+</div>
+
+---
+
+<div align="center" style="   background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
+<h1>COLLABORATION</h1>
+<b>⚠️<i> coming soon</i></b>
+<div>I can help your brand and/or business achieve <b>meteoric growth</b> using technology. As a product innovator with 3+ years of experience in building digital innovations, I have experiences in strategizing revenue streams and managing a team of cross-discipline talents in achieving hyper scale. I have even <b>single handendly built and managed a website that reached 3k unique visitors on the first day.</b>  </div>
+</div>
+
+---
+
+<div style="text-align:center" >
+<img src="https://github-readme-stats.vercel.app/api?username=jonathanfilbert&show_icons=true" /></div>
