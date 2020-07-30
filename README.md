@@ -1,16 +1,11 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
 ![image](https://jofil-web.s3.amazonaws.com/images/og.png)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/jonathanfilbert" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=jonathanfilbert&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/jonathanfilbert?label=%40jonatthanfilbert&style=social"></a>
-  <div style="text-align:center; padding:0; margin:0" >
+  <br>
   <a href="https://blog.jofil.tech">Blog</a> •
   <a href="https://jofil.tech">Website</a>
-  </div>
 </p>
 
 ---
@@ -35,6 +30,6 @@ I'm a <a href="https://pintu.co.id/" >fullstack software engineer at Pintu and R
 </div>
 
 ---
-
-<div style="text-align:center" >
-<img src="https://github-readme-stats.vercel.app/api?username=jonathanfilbert&show_icons=true" /></div>
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=jonathanfilbert&show_icons=true" style="text-align:center" />
+</p>
