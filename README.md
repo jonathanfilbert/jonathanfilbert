@@ -31,5 +31,5 @@ I'm a <a href="https://pintu.co.id/" >fullstack software engineer at Pintu and R
 
 ---
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=jonathanfilbert&show_icons=true" style="text-align:center" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonathanfilbert&show_icons=true&count_private=true" style="text-align:center" />
 </p>
