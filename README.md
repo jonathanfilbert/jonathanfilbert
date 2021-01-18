@@ -1,4 +1,4 @@
-![image](https://jofil-web.s3.amazonaws.com/images/og.png)
+![image](https://i.ibb.co/vVLby7x/Linked-In-Cover-1.png)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/jonathanfilbert" alt="profile views"> •  
